@@ -26,7 +26,7 @@ This project is a mobile robotic system developed using the Deneyap card, integr
 - Implemented servo motor control logic
 
 ##  Images 
-<img src="robot1.jpeg" width="500">
+<img src="robot1.jpeg" width="400">
 ##  Demo Video
 
 ******************************************************************************************************************************************************************************************************************************
@@ -56,5 +56,5 @@ Bu proje, Deneyap kart kullanılarak geliştirilen, mobil bir robotik araç ve �
 - Servo motorların kontrol edilmesi
 
 ##  Görseller
-<img src="robot1.jpeg" width="500">
+<img src="robot1.jpeg" width="400">
 ##  Video
