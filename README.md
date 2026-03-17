@@ -26,7 +26,7 @@ This project is a mobile robotic system developed using the Deneyap card, integr
 - Implemented servo motor control logic
 
 ##  Images 
-
+![robot](robot1.jpeg)
 ##  Demo Video
 
 ******************************************************************************************************************************************************************************************************************************
